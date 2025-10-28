@@ -2,7 +2,7 @@
 
 DevOps Practical 1
 
-This is hello from <hendi>. I am adding a new line of
+This is hello from hendi. I am adding a new line of
 
-code here for direct branch push.
+code here for direct branch push. HELLOO!!!
 
